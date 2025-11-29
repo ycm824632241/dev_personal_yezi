@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af4fc32f-671a-43c7-8bb3-103cb3287f3f" name="更改" comment="测试">
-      <change afterPath="$PROJECT_DIR$/Dev_yechenm/复现2/OT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev_yechenm/复现2/OT2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/OT_1n_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/OT_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试copilot/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/OT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/OT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev_yechenm/t.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +58,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.OT (1).executor": "Run",
     "Python.OT.executor": "Run",
     "Python.OT2.executor": "Run",
+    "Python.OT_1n_gui.executor": "Run",
+    "Python.OT_gui.executor": "Run",
+    "Python.OT_kofn_gui.executor": "Run",
     "Python.不经意传输1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Yechen_workplace_python/dev_personal_yezi/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.配色方案字体"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Yechen_workplace_python\dev_personal_yezi\Dev_yechenm\Simulatable Oblivious Transfer Protocols Based on Blind Signature" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Yechen_workplace_python\dev_personal_yezi\Dev_yechenm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OT">
-    <configuration name="不经意传输1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.OT_kn_gui">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev_personal_yezi" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,11 +92,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dev_yechenm/复现" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试copilot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dev_yechenm/复现/不经意传输1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试copilot/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dev_personal_yezi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/OT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,6 +171,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="OT_1n_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dev_personal_yezi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Yechen_workplace_python\dev_personal_yezi\Dev_yechenm\Simulatable Oblivious Transfer Protocols Based on Blind Signature\OT_1n_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OT_kn_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dev_personal_yezi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Yechen_workplace_python\dev_personal_yezi\Dev_yechenm\Simulatable Oblivious Transfer Protocols Based on Blind Signature\OT_kn_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="dev_personal_yezi" />
       <option name="ENV_FILES" value="" />
@@ -156,9 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OT_kn_gui" />
+        <item itemvalue="Python.OT_1n_gui" />
+        <item itemvalue="Python.OT (1)" />
         <item itemvalue="Python.OT" />
         <item itemvalue="Python.OT2" />
-        <item itemvalue="Python.不经意传输1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,12 +287,28 @@
       <option name="project" value="LOCAL" />
       <updated>1763362474322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试">
+      <option name="closed" value="true" />
+      <created>1763702815168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763702815168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="测试" />
     <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
