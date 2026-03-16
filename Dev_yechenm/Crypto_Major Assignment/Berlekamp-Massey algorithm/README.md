@@ -1,0 +1,3 @@
+Berlekamp-Massey算法的python实现
+
+BM算法用于构造能够产生给定有限二元序列的最短 LFSR
