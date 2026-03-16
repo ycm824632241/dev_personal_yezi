@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/build.bat">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/build.bat" />
+              <option name="updatedContent" value="@echo off&#13;&#10;REM Build script for Windows using PyInstaller&#13;&#10;REM Usage: run this in a Developer PowerShell or cmd with Python available&#13;&#10;&#13;&gt;REM 1) Create and activate venv (optional)&#13;&#10;python -m venv .venv&#13;&#10;call .venv\Scripts\activate&#13;&#10;&#13;&#10;REM 2) Install dependencies&#13;&#10;pip install --upgrade pip&#13;&#10;pip install -r requirements.txt&#13;&#10;&#13;&#10;REM 3) Optional: run the script to confirm it works&#13;&#10;python &quot;OT_kn_gui.py&quot;&#13;&#10;&#13;&#10;REM 4) Locate gmpy2 DLL and Qt platform plugin. You may need to adjust these paths.&#13;&#10;REM Example: find gmpy2 path with python -c &quot;import gmpy2, os; print(os.path.dirname(gmpy2.__file__))&quot;&#13;&#10;&#13;&#10;REM 5) Run PyInstaller. You must replace paths below if necessary.&#13;&#10;SET script=OT_kn_gui.py&#13;&#10;REM You can set LIBGMP_PATH and QT_PLUGINS_PATH environment variables if needed. Otherwise PyInstaller will try to collect automatically.&#13;&#10;pyinstaller --noconfirm --onefile --windowed --name OT_kn_gui %script%&#13;&#10;&#13;&#10;echo Build finished. Executable will be in the dist\ folder.&#13;&#10;pause&#13;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/requirements.txt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Dev_yechenm/Simulatable Oblivious Transfer Protocols Based on Blind Signature/requirements.txt" />
+              <option name="updatedContent" value="PyQt6&gt;=6.5&#10;pycryptodome&#10;gmpy2&#10;pyinstaller&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
